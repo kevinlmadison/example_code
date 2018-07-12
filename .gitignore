@@ -1,0 +1,15 @@
+*.dSYM
+*~
+.*.swp
+.gdb_history
+tmp*
+*.dylib
+*.rlib
+*.bin
+*.so
+*.pb
+.history.txt
+target/
+Cargo.lock
+.idea
+*.iml
